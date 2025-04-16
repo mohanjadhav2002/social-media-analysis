@@ -1,0 +1,12 @@
+streamlit
+nltk
+spacy
+torch
+transformers
+requests
+json
+praw
+langdetect
+google-api-python-client
+youtube-transcript-api
+googletrans
